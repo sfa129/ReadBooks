@@ -1,4 +1,4 @@
-MyReads Single-Page Web App: Udacity Front End Web Developer Nanodegree, Project 6
+ReadBooks Single-Page Web App 
 ======================================================================
 
 ## Table of Contents
@@ -10,7 +10,7 @@ MyReads Single-Page Web App: Udacity Front End Web Developer Nanodegree, Project
 
 ## Purpose
 
-This sixth project of the Udacity Front-End Web Developer Nanodegree (FEND) instructed me to build a book search and shelf management app using React. Key principles included:
+This is one of the starting projects of my development journey towards React / MERN Stack Technology. Key principles included:
 1. Proper management of state, including real-time updates
 2. Error handling for failed or invalid searches
 3. Consistent interaction with an API data source
